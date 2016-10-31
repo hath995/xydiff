@@ -34,7 +34,7 @@ xydiff requires that Xerces-C++ 3.x be installed. Xerces-C++ can be built
 installed with the binaries and headers for your platform:
 
 * **Ubuntu / Debian:**
-  <pre>apt-get install libxerces-c-dev</pre>
+  <pre>apt-get install libxerces-c-dev automake autoconf libtool gettext pkg-config</pre>
 * **RedHat / CentOS / Fedora**:
   <pre>yum install xerces-c-devel</pre>
 * **Mac OS X ([Homebrew](http://mxcl.github.com/homebrew/))**
